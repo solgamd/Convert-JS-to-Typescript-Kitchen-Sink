@@ -1,0 +1,19 @@
+{
+  "name": "convert-kitchen-sink",
+  "version": "1.0.0",
+  "description": "**Practicing Typescript**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solgamd/Convert-JS-to-Typescript-Kitchen-Sink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solgamd/Convert-JS-to-Typescript-Kitchen-Sink/issues"
+  },
+  "homepage": "https://github.com/solgamd/Convert-JS-to-Typescript-Kitchen-Sink#readme"
+}
